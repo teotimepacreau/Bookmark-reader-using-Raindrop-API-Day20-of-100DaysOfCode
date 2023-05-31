@@ -1,7 +1,7 @@
 # Bookmark-reader-using-Raindrop-API
 https://github.com/teotimepacreau/Bookmark-reader-using-Raindrop-API-Day20-of-100DaysOfCode/assets/95431443/b5ea112c-9f15-4f0d-a23e-caf749f5e7fc
 
-# Projet Goals 
+# Project Goals 
 - fetching API for every article entry
 - learning POSTMAN GET process to unlock access_token
 - asynchronous code
